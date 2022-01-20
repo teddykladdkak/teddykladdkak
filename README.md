@@ -6,7 +6,7 @@
 I am a nurse, web developer and innovator.
 > "If it doesn't exist, I do it myself"
 
-I have coded my whole life, it's like a second language.
+I have coded my whole life, it's like a second language to me.
 
 ---
 
