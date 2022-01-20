@@ -22,18 +22,12 @@ I have coded my whole life, it's like a second language.
 ---
 
 ### Connect with me:
-[![globe](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/globe-s.svg)](https://teddyprojekt.se/#gh-light-mode-only)
-[![globe](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/globe-v.svg)](https://teddyprojekt.se/#gh-dark-mode-only)
-[![linkedin](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/linkedin-s.svg)](https://www.linkedin.com/in/mattias-masback/#gh-light-mode-only)
-[![linkedin](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/linkedin-v.svg)](https://www.linkedin.com/in/mattias-masback/#gh-dark-mode-only)
-[![codepen](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/codepen-s.svg)](https://codepen.io/teddykladdkak/#gh-light-mode-only)
-[![codepen](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/codepen-v.svg)](https://codepen.io/teddykladdkak/#gh-dark-mode-only)
-[![facebook](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/facebook-s.svg)](https://www.facebook.com/teddykladdkaka#gh-light-mode-only)
-[![facebook](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/facebook-v.svg)](https://www.facebook.com/teddykladdkaka#gh-dark-mode-only)
-[![instagram](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/instagram-s.svg)](https://instagram.com/teddykladdkak/#gh-light-mode-only)
-[![instagram](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/instagram-v.svg)](https://instagram.com/teddykladdkak/#gh-dark-mode-only)
-[![twitter](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/twitter-s.svg)](https://twitter.com/teddykladdkaka#gh-light-mode-only)
-[![twitter](https://github.com/teddykladdkak/teddykladdkak/blob/main/ikoner/twitter-v.svg)](https://twitter.com/teddykladdkaka#gh-dark-mode-only)
+[![globe](https://img.shields.io/badge/-Teddyprojekt-%23E87600?style=for-the-badge)](https://teddyprojekt.se/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattias-masback/)
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/teddykladdkak/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/teddykladdkaka)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teddykladdkak/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teddykladdkaka)
 
 ...or search for `teddykladdkak`.
 
