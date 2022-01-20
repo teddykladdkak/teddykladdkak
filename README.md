@@ -38,3 +38,14 @@ I have coded my whole life, it's like a second language.
 ...or search for `teddykladdkak`.
 
 ---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://teddyprojekt.se/blogg/)
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
