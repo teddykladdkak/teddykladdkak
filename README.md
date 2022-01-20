@@ -42,6 +42,11 @@ I have coded my whole life, it's like a second language.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Videosamtal för larmcentralen hos NHS](https://teddyprojekt.se/blogg/2021-10-05/larmcentral-nhs-videosamtal.html)
+- [Videosamtal för larmcentralen](https://teddyprojekt.se/blogg/2021-10-03/videosamtal-vid-larmsamtal.html)
+- [WHO Rapport om AI](https://teddyprojekt.se/blogg/2021-09-05/who-rapport-artificiell-intelligens.html)
+- [Digitalisering](https://teddyprojekt.se/blogg/2021-09-03/digitaliseringen-tveaggat-svard.html)
+- [Alla dessa hälsoappar](https://teddyprojekt.se/blogg/2021-08-04/massa-halsoappar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://teddyprojekt.se/blogg/)
