@@ -48,4 +48,4 @@ I have coded my whole life, it's like a second language.
 
 ---
 
-[![teddykladdkak's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddykladdkak)](https://github.com/teddykladdkak/github-readme-stats)
+[![teddykladdkak's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddykladdkak)](#)
